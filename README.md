@@ -27,18 +27,18 @@ Clubs, events and ticketing for UniMelb. Plain-language search runs on a tool-ca
 </td>
 <td width="50%" valign="top">
 
-**[Voyager](https://github.com/5OFAKIND/Voyager)**<br>
-*Best Product, CodeBrew 2026.* An interactive rebuild of NASA's Reed-Solomon recovery pipeline: corrupt real images or text, then watch RS(255,223) and ML erasure detection bring them back.<br>
-<sub>React · TensorFlow.js</sub>
+**[Oculus](https://github.com/Tchanwangsa/oculus)**<br>
+Your uni coursework as a local, searchable library on your Mac. Free and open source, starting with UniMelb.<br>
+<sub>macOS · Window </sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Oculus](https://github.com/Tchanwangsa/oculus)**<br>
-Your uni coursework as a local, searchable library on your Mac. Free and open source, starting with UniMelb.<br>
-<sub>macOS · Window </sub>
+**[Voyager](https://github.com/5OFAKIND/Voyager)**<br>
+*Best Product, CodeBrew 2026.* An interactive rebuild of NASA's Reed-Solomon recovery pipeline: corrupt real images or text, then watch RS(255,223) and ML erasure detection bring them back.<br>
+<sub>React · TensorFlow.js</sub>
 
 </td>
 <td width="50%" valign="top">
