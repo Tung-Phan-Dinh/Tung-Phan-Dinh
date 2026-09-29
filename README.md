@@ -13,7 +13,6 @@ I'm Andre (Dinh Tung Phan), a data science student at the University of Melbourn
 - Building [**Oculus**](https://github.com/Tchanwangsa/oculus) with a friend: an open-source macOS app that turns your coursework into a searchable local library.
 - Testing whether an LLM judge can reliably grade LLM advice it can't verify itself.
 - Incoming vacation student at **CSIRO** Mineral Resources, working on RAG evaluation (Nov 2026 to Feb 2027).
-- Industry Officer at **RAID@UniMelb**, and interviewer and organiser at **DSCubed**.
 
 ### Selected work
 
@@ -69,10 +68,6 @@ Welcomes new club members by email, holds the conversation on its own, and turns
 </table>
 
 Also: [UI-UX-agent](https://github.com/Tung-Phan-Dinh/UI-UX-agent), a design knowledge base for coding agents, and [face-features](https://github.com/Tung-Phan-Dinh/face-features), feature selection and classification on 512-d face embeddings.
-
-### Previously
-
-Data science intern at **Viettel High Technology**, and product and platform engineering intern at **DSCubed**.
 
 ### Tools
 
