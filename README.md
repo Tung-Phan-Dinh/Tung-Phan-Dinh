@@ -38,7 +38,7 @@ Clubs, events and ticketing for UniMelb. Plain-language search runs on a tool-ca
 
 **[Oculus](https://github.com/Tchanwangsa/oculus)**<br>
 Your uni coursework as a local, searchable library on your Mac. Free and open source, starting with UniMelb.<br>
-<sub>macOS</sub>
+<sub>macOS · Window </sub>
 
 </td>
 <td width="50%" valign="top">
