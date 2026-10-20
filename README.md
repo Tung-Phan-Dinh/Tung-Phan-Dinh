@@ -21,7 +21,7 @@ I'm Andre (Dinh Tung Phan), a data science student at the University of Melbourn
 <td width="50%" valign="top">
 
 **[Oculus](https://github.com/Tchanwangsa/oculus)**<br>
-Your uni coursework as a local, searchable library on your Mac. Free and open source, starting with UniMelb.<br>
+Your uni coursework as a local, searchable library on your Mac. Free and open source, LMS based.<br>
 <sub>macOS · Window </sub>
 
 </td>
